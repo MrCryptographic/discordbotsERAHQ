@@ -7,7 +7,7 @@
 `Send Messages`, `Read Message History`, `Use Slash Commands` and `View Channels`
 
 # You need to make the following folder structure in order for this to work
-
+```php
 tictactoe/
 │
 ├── game_data/
@@ -17,3 +17,4 @@ tictactoe/
 ├── web_server.py          # Backend for web
 ├── static/                # Web assets (HTML/JS)
 │   └── index.html
+```
