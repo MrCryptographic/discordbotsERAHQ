@@ -1,8 +1,11 @@
-# Auth scopes for bot
-
 In Discord Developer Portal, go to installation:
 
 ![image](https://github.com/user-attachments/assets/ca61f1fd-bc90-4dd1-ac04-5b020cc485b1)
+
+
+
+
+# Auth scopes for bot
 
 
 `application.commands` and `bot`
