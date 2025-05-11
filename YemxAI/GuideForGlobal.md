@@ -6,7 +6,7 @@
 
 **Step One: Find the Add app button.**
 
-You're gonna want to locate the bot so you can add it. An easy way to do that is go to my [Discord Server](https://discord.gg/PymAgpenPU) and click the little "Memebers" icon, located below:
+You're gonna want to locate the bot so you can add it. An easy way to do that is go to my [Discord Server](https://discord.gg/yjtNP4QdWc) and click the little "Memebers" icon, located below:
 
 ![508285e1-6a06-4c32-bc8b-3230ed48e278](https://github.com/user-attachments/assets/42df758a-5b8f-4ca6-b1f6-83c012f5943c)
 
