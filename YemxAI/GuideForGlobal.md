@@ -1,5 +1,5 @@
 # Guide for YemxAI | How to use globally
-
+### Name change: YemxAI is now called Amaryll
 
 
 ## In order to use YemxAI globally, you need to add it to your user.
