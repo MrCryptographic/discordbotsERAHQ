@@ -1,7 +1,7 @@
 # discordbotsERAHQ
 This repository holds all of my Discord bot guides/code/etc.
 
-Report bugs [here](https://forms.gle/w1muDWWjwMF8uT2w9).
+Report bugs [here](https://forms.gle/w1muDWWjwMF8uT2w9). I don't check github that often so service will only be offered in my Discord server.
 
 Currently, the bots that I have open source are
 
